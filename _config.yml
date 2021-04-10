@@ -1,2 +1,3 @@
 name: Jess Strzempko
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
